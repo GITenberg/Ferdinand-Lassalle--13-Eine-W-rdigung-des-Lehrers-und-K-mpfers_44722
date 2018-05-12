@@ -1,0 +1,30 @@
+_repo: Ferdinand-Lassalle--13-Eine-W-rdigung-des-Lehrers-und-K-mpfers_44722
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44722-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bernstein, Eduard
+    alias: Bernstein, Ed. (Eduard)
+    birthdate: 1850
+    deathdate: 1932
+    gutenberg_agent_id: '26552'
+    url: http://www.gutenberg.org/2009/agents/26552
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Eduard_Bernstein
+    - http://en.wikipedia.org/wiki/Eduard_Bernstein
+description: ''
+gutenberg_issued: '2014-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44722'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lassalle, Ferdinand, 1825-1864'
+- !lcc 'HX'
+title: 'Ferdinand Lassalle: Eine Würdigung des Lehrers und Kämpfers'
+url: http://www.gutenberg.org/ebooks/44722
